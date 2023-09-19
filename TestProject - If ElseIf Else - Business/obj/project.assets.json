@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - Dice\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "e:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - Dice\\TestProject.csproj",
+      "projectUniqueName": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - Business\\TestProjectBusiness.csproj",
+      "projectName": "TestProjectBusiness",
+      "projectPath": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - Business\\TestProjectBusiness.csproj",
       "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
-      "outputPath": "e:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - Dice\\obj\\",
+      "outputPath": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miste\\AppData\\Roaming\\NuGet\\NuGet.Config"
