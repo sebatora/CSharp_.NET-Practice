@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProjectForEach\\TestProjectForEach.csproj": {}
+    "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - ForEach - Arrays\\TestProjectForEach.csproj": {}
   },
   "projects": {
-    "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProjectForEach\\TestProjectForEach.csproj": {
+    "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - ForEach - Arrays\\TestProjectForEach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProjectForEach\\TestProjectForEach.csproj",
+        "projectUniqueName": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - ForEach - Arrays\\TestProjectForEach.csproj",
         "projectName": "TestProjectForEach",
-        "projectPath": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProjectForEach\\TestProjectForEach.csproj",
+        "projectPath": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - ForEach - Arrays\\TestProjectForEach.csproj",
         "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
-        "outputPath": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProjectForEach\\obj\\",
+        "outputPath": "E:\\Mis Documentos\\Documentos\\Proyectos\\CsharpProjects\\TestProject - ForEach - Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miste\\AppData\\Roaming\\NuGet\\NuGet.Config"

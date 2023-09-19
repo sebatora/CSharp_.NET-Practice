@@ -1,0 +1,14 @@
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\bin\Debug\net7.0\TestProjectForEach.exe
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\bin\Debug\net7.0\TestProjectForEach.deps.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\bin\Debug\net7.0\TestProjectForEach.runtimeconfig.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\bin\Debug\net7.0\TestProjectForEach.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\bin\Debug\net7.0\TestProjectForEach.pdb
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\TestProjectForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\TestProjectForEach.AssemblyInfoInputs.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\TestProjectForEach.AssemblyInfo.cs
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\TestProjectForEach.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\TestProjectForEach.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\refint\TestProjectForEach.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\TestProjectForEach.pdb
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\TestProjectForEach.genruntimeconfig.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\TestProject - ForEach - Arrays\obj\Debug\net7.0\ref\TestProjectForEach.dll
